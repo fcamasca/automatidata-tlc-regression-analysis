@@ -82,11 +82,11 @@ Visualizaciones interactivas orientadas a comprender el comportamiento de los vi
 - Impacto de variables como *rush hour*
 - Storytelling analítico
 
-![Análisis – EDA (Duración del viaje)](dashboards/Tableau/Análisis – EDA (Duración del viaje).png)
+![Análisis – EDA (Duración del viaje)](dashboards/Tableau/Análisis–EDA(Duración-del-viaje).png)
 
-![Análisis–EDA (Distancia vs duración)](dashboards/Tableau/Análisis–EDA (Distancia vs duración).png)
+![Análisis–EDA (Distancia vs duración)](dashboards/Tableau/Análisis–EDA-(Distancia-vs-duración).png)
 
-![Construcción – Feature Insights (Rush hour)](dashboards/Tableau/Construcción – Feature Insights (Rush hour).png)
+![Construcción – Feature Insights (Rush hour)](dashboards/Tableau/Construcción–Feature-Insights-(Rush-hour).png)
 
 ![Dashboard Tableau](dashboards/Tableau/Dashboard.png)
 
@@ -100,9 +100,9 @@ Paneles analíticos orientados a evaluar el desempeño del modelo de regresión 
 - Análisis de métricas y errores
 - Visualización ejecutiva de resultados
 
-![Análisis Analítico de Tarifas](dashboards/PowerBI/Análisis Analítico de Tarifas.jpg)
+![Análisis Analítico de Tarifas](dashboards/PowerBI/Análisis-Analítico-de-Tarifas.jpg)
 
-![Evaluación del Modelo de Regresión](dashboards/PowerBI/Evaluación del Modelo de Regresión.jpg)
+![Evaluación del Modelo de Regresión](dashboards/PowerBI/Evaluación-del-Modelo-de-Regresión.jpg)
 
 ![Dashboard Power BI](dashboards/PowerBI/Dashboard.jpg)
 

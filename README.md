@@ -71,6 +71,40 @@ automatidata-tlc-regression/
 ├── requirements.txt
 └── README.md
 ```
+## 📊 Vista general del proyecto
+
+### Tableau — Análisis exploratorio y storytelling
+Visualizaciones interactivas orientadas a comprender el comportamiento de los viajes, relaciones entre variables y patrones temporales, apoyando la exploración de datos y la generación de insights.
+
+**Casos de uso principales:**
+- Análisis exploratorio de datos (EDA)
+- Relación distancia–duración
+- Impacto de variables como *rush hour*
+- Storytelling analítico
+
+![Análisis – EDA (Duración del viaje)](dashboards/Tableau/Análisis – EDA (Duración del viaje).png)
+
+![Análisis–EDA (Distancia vs duración)](dashboards/Tableau/Análisis–EDA (Distancia vs duración).png)
+
+![Construcción – Feature Insights (Rush hour)](dashboards/Tableau/Construcción – Feature Insights (Rush hour).png)
+
+![Dashboard Tableau](dashboards/Tableau/Dashboard.png)
+
+---
+
+### Power BI — Evaluación del modelo y monitoreo
+Paneles analíticos orientados a evaluar el desempeño del modelo de regresión y comunicar resultados de forma clara a audiencias técnicas y de negocio.
+
+**Casos de uso principales:**
+- Evaluación del modelo de regresión
+- Análisis de métricas y errores
+- Visualización ejecutiva de resultados
+
+![Análisis Analítico de Tarifas](dashboards/PowerBI/Análisis Analítico de Tarifas.jpg)
+
+![Evaluación del Modelo de Regresión](dashboards/PowerBI/Evaluación del Modelo de Regresión.jpg)
+
+![Dashboard Power BI](dashboards/PowerBI/Dashboard.jpg)
 
 ---
 
